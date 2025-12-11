@@ -1,3 +1,3 @@
 # Análises estatísticas
 
-Repositório desenvolvido para postar os meus códigos estatísticas feito em Python através do Jupyter Notebook.
+Repositório desenvolvido para postar os meus códigos de estatística feito em Python através do Jupyter Notebook.
